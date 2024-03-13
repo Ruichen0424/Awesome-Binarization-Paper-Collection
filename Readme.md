@@ -42,6 +42,14 @@
   - [IJCAI](#ijcai-2019)
   - [AAAI](#aaai-2019)
 
+- [2018](#2018)
+  - [NeurIPS](#neurips-2018)
+  - [CVPR](#cvpr-2018)
+  - [ECCV](#eccv-2018)
+  - [ICML](#icml-2018)
+  - [IJCAI](#ijcai-2018)
+  - [AAAI](#aaai-2018)
+
 
 
 # 2023
@@ -523,4 +531,96 @@
 - Binary Classifier Inspired by Quantum Theory [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5162)] [[arxiv](https://arxiv.org/abs/1903.01167)] [[paper with code](https://paperswithcode.com/paper/binary-classifier-inspired-by-quantum-theory)]
 
 
+
+# 2018
+
+
+## NeurIPS-2018
+
+
+- Binary Rating Estimation with Graph Side Information [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/0b1ec366924b26fc98fa7b71a9c249cf-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/binary-rating-estimation-with-graph-side)]
+
+- On Binary Classification in Extreme Regions [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/0ebcc77dc72360d0eb8e9504c78d38bd-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/on-binary-classification-in-extreme-regions)]
+
+- Heterogeneous Bitwidth Binarization in Convolutional Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/1b36ea1c9b7a1c3ad668b8bb5df7963f-Abstract.html)] [[arxiv](https://arxiv.org/abs/1805.10368)] [[paper with code](https://paperswithcode.com/paper/heterogeneous-bitwidth-binarization-in)] [[openview](https://openreview.net/forum?id=HJDV5YxCW)]
+
+- Binary Classification from Positive-Confidence Data [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/bd1354624fbae3b2149878941c60df99-Abstract.html)] [[arxiv](https://arxiv.org/abs/2001.10642)] [[paper with code](https://paperswithcode.com/paper/binary-classification-from-positive)] [[code](https://github.com/takashiishida/pconf)]
+
+- BinGAN: Learning Compact Binary Descriptors with a Regularized GAN [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/f442d33fa06832082290ad8544a8da27-Abstract.html)] [[arxiv](https://arxiv.org/abs/1806.06778)] [[paper with code](https://paperswithcode.com/paper/bingan-learning-compact-binary-descriptors)] [[code](https://github.com/maciejzieba/binGAN)]
+
+
+## CVPR-2018
+
+
+- Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Learning_Deep_Models_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1803.11097)] [[paper with code](https://paperswithcode.com/paper/learning-deep-models-for-face-anti-spoofing)]
+
+
+## ECCV-2018
+
+
+- Highly-Economized Multi-View Binary Compression for Scalable Image Clustering [[paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/html/Zheng_Zhang_Highly-Economized_Multi-View_Binary_ECCV_2018_paper.php)] [[arxiv](https://arxiv.org/abs/1809.05992)] [[paper with code](https://paperswithcode.com/paper/highly-economized-multi-view-binary)]
+
+- TBN: Convolutional Neural Network with Ternary Inputs and Binary Weights [[paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/html/Diwen_Wan_TBN_Convolutional_Neural_ECCV_2018_paper.php)] [[paper with code](https://paperswithcode.com/paper/tbn-convolutional-neural-network-with-ternary)] [[code](https://github.com/dnvtmf/TBN)]
+
+- Hashing with Binary Matrix Pursuit [[paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/html/Fatih_Cakir_Hashing_with_Binary_ECCV_2018_paper.php)] [[arxiv](https://arxiv.org/abs/1808.01990)] [[paper with code](https://paperswithcode.com/paper/hashing-with-binary-matrix-pursuit)] [[code](https://github.com/fcakir/deep-mihash)]
+
+- Training Binary Weight Networks via Semi-Binary Decomposition [[paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/html/Qinghao_Hu_Training_Binary_Weight_ECCV_2018_paper.php)] [[paper with code](https://paperswithcode.com/paper/training-binary-weight-networks-via-semi)]
+
+
+## ICML-2018
+
+
+- Learning Binary Latent Variable Models: A Tensor Eigenpair Approach [[paper](https://proceedings.mlr.press/v80/jaffe18a.html)] [[arxiv](https://arxiv.org/abs/1802.09656)] [[paper with code](https://paperswithcode.com/paper/learning-binary-latent-variable-models-a)] [[code](https://github.com/arJaffe/BinaryLatentVariables)]
+
+- Understanding the Loss Surface of Neural Networks for Binary Classification [[paper](https://proceedings.mlr.press/v80/liang18a.html)] [[arxiv](https://arxiv.org/abs/1803.00909)] [[paper with code](https://paperswithcode.com/paper/understanding-the-loss-surface-of-neural)]
+
+- Binary Partitions with Approximate Minimum Impurity [[paper](https://proceedings.mlr.press/v80/laber18a.html)] [[paper with code](https://paperswithcode.com/paper/binary-partitions-with-approximate-minimum)]
+
+- Towards Binary-Valued Gates for Robust LSTM Training [[paper](https://proceedings.mlr.press/v80/li18c.html)] [[arxiv](https://arxiv.org/abs/1806.02988)] [[paper with code](https://paperswithcode.com/paper/towards-binary-valued-gates-for-robust-lstm)] [[code](https://github.com/zhuohan123/g2-lstm)]
+
+- Binary Classification with Karmic, Threshold-Quasi-Concave Metrics [[paper](https://proceedings.mlr.press/v80/yan18b.html)] [[arxiv](https://arxiv.org/abs/1806.00640)] [[paper with code](https://paperswithcode.com/paper/binary-classification-with-karmic-threshold)]
+
+
+## IJCAI-2018
+
+
+- Learning Deep Unsupervised Binary Codes for Image Retrieval [[paper](https://www.ijcai.org/proceedings/2018/85)]
+
+- Enhanced-alignment Measure for Binary Foreground Map Evaluation [[paper](https://www.ijcai.org/proceedings/2018/97)] [[arxiv](https://arxiv.org/abs/1805.10421)] [[paper with code](https://paperswithcode.com/paper/enhanced-alignment-measure-for-binary)] [[code](https://github.com/DengPingFan/E-measure)]
+
+- Accelerated Difference of Convex functions Algorithm and its Application to Sparse Binary Logistic Regression [[paper](https://www.ijcai.org/proceedings/2018/190)]
+
+- Complementary Binary Quantization for Joint Multiple Indexing [[paper](https://www.ijcai.org/proceedings/2018/292)]
+
+- Deterministic Binary Filters for Convolutional Neural Networks [[paper](https://www.ijcai.org/proceedings/2018/380)]
+
+- Binary Coding based Label Distribution Learning [[paper](https://www.ijcai.org/proceedings/2018/386)]
+
+- Unsupervised Deep Hashing via Binary Latent Factor Models for Large-scale Cross-modal Retrieval [[paper](https://www.ijcai.org/proceedings/2018/396)]
+
+- Towards Enabling Binary Decomposition for Partial Label Learning [[paper](https://www.ijcai.org/proceedings/2018/398)]
+
+- Planning in Factored State and Action Spaces with Learned Binarized Neural Network Transition Models [[paper](https://www.ijcai.org/proceedings/2018/669)] [[arxiv](https://arxiv.org/abs/1811.10433)]
+
+- Formal Analysis of Deep Binarized Neural Networks [[paper](https://www.ijcai.org/proceedings/2018/811)]
+
+
+## AAAI-2018
+
+
+- Binary Generative Adversarial Networks for Image Retrieval [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11276)] [[arxiv](https://arxiv.org/abs/1708.04150)] [[paper with code](https://paperswithcode.com/paper/binary-generative-adversarial-networks-for)] [[code](https://github.com/htconquer/BGAN)]
+
+- Tensorized Projection for High-Dimensional Binary Embedding [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11292)]
+
+- Submodular Function Maximization Over Graphs via Zero-Suppressed Binary Decision Diagrams [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11520)]
+
+- From Hashing to CNNs: Training Binary Weight Networks via Hashing [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11660)]
+
+- On the Optimal Bit Complexity of Circulant Binary Embedding [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11818)]
+
+- SqueezedText: A Real-Time Scene Text Recognition by Binary Convolutional Encoder-Decoder Network [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/12252)]
+
+- Learning Binary Residual Representations for Domain-Specific Video Streaming [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/12259)] [[arxiv](https://arxiv.org/abs/1712.05087)] [[paper with code](https://paperswithcode.com/paper/learning-binary-residual-representations-for)]
+
+- Verifying Properties of Binarized Deep Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/12206)] [[arxiv](https://arxiv.org/abs/1709.06662)] [[paper with code](https://paperswithcode.com/paper/verifying-properties-of-binarized-deep-neural)]
 

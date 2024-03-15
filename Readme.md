@@ -58,7 +58,7 @@
 ## NeurIPS-2023
 
 
-- Binary Classification with Confidence Difference [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/12c118ef87fde56a10bd858842781b34-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.05632)]
+- Binary Classification with Confidence Difference [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/12c118ef87fde56a10bd858842781b34-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.05632)] [[paper with code](https://paperswithcode.com/paper/binary-classification-with-confidence)] [[openview](https://openreview.net/forum?id=4RoD1o7yq6)]
 
 - Binarized Spectral Compressive Imaging [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/788e086c07b8d6fa6b279df56e512312-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.10299)] [[paper with code](https://paperswithcode.com/paper/binarized-spectral-compressive-imaging-1)] [[code](https://github.com/caiyuanhao1998/MST)] [[openview](https://openreview.net/forum?id=pcKwgdVAlq)]
 

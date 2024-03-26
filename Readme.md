@@ -1,6 +1,8 @@
 # Awesome Binarization Paper Collection
 
 
+- [2024](#2024)
+  - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
@@ -50,6 +52,31 @@
   - [IJCAI](#ijcai-2018)
   - [AAAI](#aaai-2018)
 
+
+
+
+
+# 2024
+
+
+## AAAI-2024
+
+
+- Encoding Constraints as Binary Constraint Networks Satisfying BTP [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28657)]
+
+- Taming Binarized Neural Networks and Mixed-Integer Programs [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28968)] [[arxiv](https://arxiv.org/abs/2310.04469)] [[paper with code](https://paperswithcode.com/paper/taming-binarized-neural-networks-and-mixed)]
+
+- Efficient Nonparametric Tensor Decomposition for Binary and Count Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29456)] [[arxiv](https://arxiv.org/abs/2401.07711)] [[paper with code](https://paperswithcode.com/paper/efficient-nonparametric-tensor-decomposition)] [[code](https://github.com/taozerui/gptd)]
+
+- BVT-IMA: Binary Vision Transformer with Information-Modified Attention [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29505)]
+
+- BiPFT: Binary Pre-trained Foundation Transformer with Low-Rank Estimation of Binarization Residual Polynomials [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29542)] [[arxiv](https://arxiv.org/abs/2312.08937)] [[paper with code](https://paperswithcode.com/paper/bipft-binary-pre-trained-foundation)] [[code](https://github.com/xingrun-xing/bipft)]
+
+- Probabilities of Causation with Nonbinary Treatment and Effect [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30030)] [[arxiv](https://arxiv.org/abs/2208.09568)] [[paper with code](https://paperswithcode.com/paper/probabilities-of-causation-with-nonbinary)]
+
+- Unit Selection with Nonbinary Treatment and Effect [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30031)] [[arxiv](https://arxiv.org/abs/2208.09569)] [[paper with code](https://paperswithcode.com/paper/unit-selection-with-nonbinary-treatment-and)]
+
+- Long-Term Safe Reinforcement Learning with Binary Feedback [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30164)] [[arxiv](https://arxiv.org/abs/2401.03786)] [[paper with code](https://paperswithcode.com/paper/long-term-safe-reinforcement-learning-with)]
 
 
 # 2023

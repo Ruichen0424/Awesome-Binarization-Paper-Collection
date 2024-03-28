@@ -293,6 +293,8 @@
 
 - Binary Graph Neural Networks [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Bahri_Binary_Graph_Neural_Networks_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2305.02522)] [[paper with code](https://paperswithcode.com/paper/binary-graph-neural-networks)] [[code](https://github.com/mbahri/binary_gnn)]
 
+- S2-BNN: Bridging the Gap Between Self-Supervised Real and 1-Bit Neural Networks via Guided Distribution Calibration [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Shen_S2-BNN_Bridging_the_Gap_Between_Self-Supervised_Real_and_1-Bit_Neural_CVPR_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2102.08946)] [[paper with code](https://paperswithcode.com/paper/s2-bnn-bridging-the-gap-between-self)] [[code](https://github.com/szq0214/S2-BNN)]
+
 
 ## ICCV-2021
 
@@ -320,6 +322,8 @@
 - Binary Classification from Multiple Unlabeled Datasets via Surrogate Set Classification [[paper](https://proceedings.mlr.press/v139/lu21c.html)] [[arxiv](https://arxiv.org/abs/2102.00678)] [[paper with code](https://paperswithcode.com/paper/binary-classification-from-multiple-unlabeled)] [[code](https://github.com/leishida/Um-Classification)]
 
 - Learning Binary Decision Trees by Argmin Differentiation [[paper](https://proceedings.mlr.press/v139/zantedeschi21a.html)] [[arxiv](https://arxiv.org/abs/2010.04627)] [[paper with code](https://paperswithcode.com/paper/learning-binary-trees-via-sparse-relaxation-1)] [[code](https://github.com/vzantedeschi/LatentTrees)]
+
+- How Do Adam and Training Strategies Help BNNs Optimization [[paper](https://proceedings.mlr.press/v139/liu21t.html)] [[arxiv](https://arxiv.org/abs/2106.11309)]
 
 
 ## IJCAI-2021
